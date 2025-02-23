@@ -7,6 +7,8 @@ export async function dbconnection  (){
         
     }).catch(()=>{
         console.log('failed to connected to db');
+        console.log('failed to connected to db');
+        console.log('failed to connected to db');
         
     })
 }
